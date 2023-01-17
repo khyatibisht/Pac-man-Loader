@@ -1,2 +1,4 @@
 # Pac-man-Loader
-Website Loading animation built using HTML, CSS and JS
+Website loading animation built using HTML, CSS and JS.
+
+Here's a sneek peek:
